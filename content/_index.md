@@ -5,7 +5,7 @@ prev: /
 next: docs/folder/
 ---
 
-This is the landing page.
+This is the landing page test.
 
 ## Explore
 

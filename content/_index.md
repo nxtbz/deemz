@@ -1,6 +1,8 @@
 ---
-title: My Site
-toc: false
+title: The Travelers Escape
+toc: true
+prev: /
+next: docs/folder/
 ---
 
 This is the landing page.
@@ -8,10 +10,12 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs/lab" title="Lab" icon="academic-cap" >}}
+  {{< card link="docs/substances" title="Substances" icon="beaker" >}}
+  {{< card link="docs/ROA" title="ROA" icon="scale" >}}
+  {{< card link="docs/about" title="About" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit .
